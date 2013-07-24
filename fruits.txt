@@ -1,0 +1,78 @@
+Apple
+Apricot
+Avocado
+Banana
+Breadfruit
+Bilberry
+Blackberry
+Blackcurrant
+Blueberry
+Boysenberry
+Currant
+Cherry
+Cherimoya
+Chili
+Cloudberry
+Coconut
+Damson
+Date
+Dragonfruit
+Durian
+Elderberry
+Feijoa
+Fig
+Gooseberry
+Grape
+Grapefruit
+Guava
+Huckleberry
+Honeydew
+Jackfruit
+Jettamelon
+Jambul
+Jujube
+Kiwi fruit
+Kumquat
+Legume
+Lemon
+Lime
+Loquat
+Lychee
+Mango
+Melon
+Canary melon
+Cantaloupe
+Honeydew
+Watermelon
+Rock melon
+Nectarine
+Nut
+Orange
+Clementine
+Mandarine
+Tangerine
+Papaya
+Peach
+Pepper
+Pear
+Williams pear
+Bartlett pear
+Persimmon
+Physalis
+Plum/prune
+Pineapple
+Pomegranate
+Pomelo
+Purple Mangosteen
+Quince
+Raspberry
+Western raspberry
+Rambutan
+Redcurrant
+Salal berry
+Satsuma
+Star fruit
+Strawberry
+Tamarillo
+Tomato
+Ugli fruit

@@ -1,0 +1,52 @@
+- n: ginger
+- n: garlic
+- n: mace
+  s:
+    - javitri
+- n: turmeric
+  s:
+    - pasupu
+- n: corriander
+  s:
+    - cilantro
+- n: green chillies
+- n: garam masala
+- n: salt
+- n: oil
+- n: tomato
+- n: onion
+  s:
+    - medonion
+- n: corn
+  s:
+    - corn flour
+- n: clove
+  s:
+    - elaichi
+    - cloves
+- n: custard powder
+- n: soy sauce
+  s:
+    - soya sauce
+- n: chilli sauce
+- n: ajinomoto
+- n: lime juice
+  s:
+    - lemon juice
+- n: lime
+    s:
+      - lemon
+- n: maida flour
+- n: vinegar
+- n: dhania powder
+- n: jeera powder
+- n: dhania
+- n: jeera
+- n: yogurt
+    s:
+      - curd
+- n: pepper
+- n: white pepper
+  s:
+    - white pepper powder
+- n: mace powder
