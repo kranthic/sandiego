@@ -1,0 +1,9 @@
+{% extends "index.html" %}
+{% block title %}Hello{% endblock %}
+{% block content %}
+    {% if name %}
+    Hello, {{ name }}
+    {% else %}
+    Hello, World!!!
+    {% endif %}
+{% endblock %}

@@ -1,0 +1,43 @@
+{% extends "index.html" %}
+{% block title %}Form{% endblock %}
+{% block content %}
+        <form name="recipe_form" method="post" enctype="multipart/form-data">
+        <div class="form">
+            <div class="formtitle">Recipe details</div>
+            {% if show_form_status %}
+            <div class="formstatus">{{form_status}}</div>
+            {% endif %}
+            <div class="formrow">
+                <div class="name">Recipe Name</div>
+                <div class="formfield"><input type="text" name="recipe_title" size="50"/></div>
+            </div>
+            <div class="formrow">
+                <div class="name">Website</div>
+                <div class="formfield"><input type="text" name="recipe_site" size="50"/></div>
+            </div>
+            <div class="formrow">
+                <div class="name">Parser</div>
+                <div class="formfield">
+                    <select name="parser">
+                        <option value="">None</option>
+                        <option value="sify">Sify</option>
+                    </select>
+                </div>
+            </div>
+            <div class="formrow">
+                <div class="name">Recipe File (PDF or Text with predefined format)</div>
+                <div class="formfield"><input type="file" name="recipe_file" size="50"/></div>
+            </div>
+            <div class="formrow">
+                <div class="name">Recipe (Predefined format)</div>
+                <div class="formfield"><textarea rows="5" cols="50" name="recipe"></textarea></div>
+            </div>
+
+            <div class="formrow">
+                <div class="name"></div>
+                <div class="formfield"><input type="submit" value="Submit"/> <input type="reset" value="Cancel"></div>
+            </div>
+
+        </div>
+        </form>
+{% endblock %}

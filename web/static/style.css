@@ -1,0 +1,61 @@
+body {
+
+    font-family: 'Lucida Grande', 'Lucida Sans Unicode', Helvetica, Arial, Verdana, sans-serif;
+    font-size: 0.9em;
+    margin: 0;
+    padding: 0;
+}
+
+div#header{
+    font-size: 2em;
+    color:#8A4B08;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #8A4B08;
+    margin-bottom: 10px;
+}
+
+div#content{
+    font-size: 1em;
+    width: 90%;
+    margin: 0 auto;
+}
+
+div.form{
+    width: 75%;
+    margin: 0 auto;
+}
+
+
+div.form div.formtitle, div.form div.formstatus{
+    padding: 4px;
+    font-size: 1.4em;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+div.form div.formstatus{
+    font-size: 1.2em;
+    background-color: #efefef;
+    border: #dedede;
+    padding: 10px;
+}
+
+div.form div.formrow div.name{
+    width: 20%;
+    display: inline-block;
+    padding: 4px;
+    margin: 2px;
+    text-align: right;
+    font-size: 1em;
+}
+
+div.form div.formrow div.formfield{
+    display: inline-block;
+}
+
+input, textarea{
+    font-size: 1em;
+}

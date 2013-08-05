@@ -4,9 +4,9 @@ import re
 
 f = open('/Users/kranthi/chicken_recipes.txt')
 
-stopwords = [word.strip() for word in open('stopwords.txt').readlines()]
-stopwords_chars = [char.strip() for char in open('stopwordchars.txt').readlines()]
-ingredients_stopwords = [word.strip() for word in open('ingredientsstopwords.txt').readlines()]
+stopwords = [word.strip() for word in open('dictionaries/stopwords.txt').readlines()]
+stopwords_chars = [char.strip() for char in open('dictionaries/stopwordchars.txt').readlines()]
+ingredients_stopwords = [word.strip() for word in open('dictionaries/ingredientsstopwords.txt').readlines()]
 
 
 def remove_stopwords_chars(data):
